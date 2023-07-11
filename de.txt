@@ -1,0 +1,29 @@
+// Bạn cần phải đặt 8
+//  quân hậu lên một bàn cờ vua, sao cho không có hai quân hậu nào tấn công lẫn nhau. Để tăng phần thử thách, mỗi ô vuông sẽ được đánh dấu là ô trống hoặc ô bị cấm, và bạn chỉ được xếp các quân hậu trên những ô trống. Tuy nhiên, những ô bị cấm không chặn đường chiếu của các quân hậu.
+
+// Có bao nhiêu cách để đặt các quân hậu?
+
+// Input
+// Gồm 
+//  dòng, mỗi dòng chứa 
+// 8 kí tự. Mỗi ô vuông là trống nếu kí tự tại đó là ., hoặc bị cấm nếu là *.
+// Output
+// In ra một số nguyên: số lượng cách xếp hậu.
+// Example
+// Sample input
+
+// Copy
+// Copy
+// ........
+// ........
+// ..*.....
+// ........
+// ........
+// .....**.
+// ...*....
+// ........
+// Sample output
+
+// Copy
+// Copy
+// 65
